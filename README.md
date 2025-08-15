@@ -26,7 +26,7 @@ Currently working on **MindMirror**.
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://[hussainkhasamwala.vercel.app])
 
 ## 📊 GitHub Stats
-![Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
+![Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=[drowningkirito]&show_icons=true&theme=radical)
 
 ## ⚡ Fun Fact
 - I love experimenting with AI to generate music and art 🎨🤖
