@@ -2,7 +2,7 @@
 
 ## 🔭 About Me
 I'm a Machine Learning Engineer passionate about Data Science, Machine Learning, and Artificial Intelligence.  
-Currently working on **Anonymize Chat App**.  
+Currently working on **Anonymized Chat App**.  
 
 ## 🌱 I’m Currently Learning
 - Agentic AI
