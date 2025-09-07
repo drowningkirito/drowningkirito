@@ -2,7 +2,7 @@
 
 ## 🔭 About Me
 I'm a Machine Learning Engineer passionate about Data Science, Machine Learning, and Artificial Intelligence.  
-Currently working on **MindMirror**.  
+Currently working on **Anonymized DatingApp**.  
 
 ## 🌱 I’m Currently Learning
 - Agentic AI
