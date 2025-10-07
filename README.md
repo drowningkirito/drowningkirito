@@ -6,7 +6,7 @@ Currently working on **Anonymized Chat App**.
 
 ## 🌱 I’m Currently Learning
 - Agentic AI
-- Deep Learning  
+- MCP
 - Reinforcement Learning  
 
 ## 💻 Skills & Technologies
